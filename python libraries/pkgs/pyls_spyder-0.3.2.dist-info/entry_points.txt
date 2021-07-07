@@ -1,3 +1,0 @@
-[pyls]
-pyls_spyder = pyls_spyder.plugin
-

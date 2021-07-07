@@ -1,3 +1,0 @@
-[pyls]
-pyls_black = pyls_black.plugin
-
